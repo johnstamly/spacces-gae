@@ -72,9 +72,7 @@ results/privacy/   result of the reconstruction check (later release, with data/
 
 The raw towing-tank strain records belong to the dTHOR consortium (CNR-INM and
 Politecnico di Milano) and are not released here. They are available from the
-corresponding author on reasonable request. The authors and the consortium partners
-review each request individually and grant access under a data-sharing agreement,
-and requests that lead to joint research are welcome. The later release of `data/`
+corresponding author on reasonable request. The later release of `data/`
 will hold the model's own inputs: for every 4-second window, the per-window min-max normalized variance of
 the 60 strain signals, the subgraph context computed from it, and the response
 graph. The time series cannot be recovered from these inputs, nor strain in
