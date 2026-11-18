@@ -1,0 +1,4 @@
+# Everything, including rescoring with the released models and retraining.
+-r requirements-replay.txt
+torch>=2.4
+torch-geometric>=2.6

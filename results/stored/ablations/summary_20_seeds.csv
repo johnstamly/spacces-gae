@@ -1,0 +1,11 @@
+arm,seed_set,n_params
+REF-a1,pooled 0-19,960
+M1,pooled 0-19,960
+M2,pooled 0-19,656
+PHYS1,pooled 0-19,652
+SIM1,pooled 0-19,652
+G1b,pooled 0-19,960
+REF,pooled 0-19,960
+PHYS2,pooled 0-19,960
+SIM2,pooled 0-19,960
+DESC,pooled 0-19,1072

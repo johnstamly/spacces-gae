@@ -1,0 +1,9 @@
+# Replay of every reported number from the stored score tables (no PyTorch needed):
+#   pip install -r requirements-replay.txt
+#   python reproduce/replay_all.py --no-rescore
+numpy>=2.0
+pandas>=2.2
+scipy>=1.13
+scikit-learn>=1.5
+matplotlib>=3.8
+pytest>=8

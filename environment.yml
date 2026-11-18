@@ -1,0 +1,19 @@
+# Full environment: replay, rescoring with the released models, retraining.
+#   conda env create -f environment.yml && conda activate spacces-gae
+# Tested with Python 3.12, numpy 2.5, pandas 3.0, scipy 1.18, scikit-learn 1.9,
+# matplotlib 3.11, PyTorch 2.11 and PyG 2.8 on Windows 10 (CPU).
+name: spacces-gae
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy>=2.0
+  - pandas>=2.2
+  - scipy>=1.13
+  - scikit-learn>=1.5
+  - matplotlib>=3.8
+  - pytest>=8
+  - pip
+  - pip:
+      - torch>=2.4
+      - torch-geometric>=2.6

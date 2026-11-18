@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+.venv/
+# outputs written by the replay, rescoring, retraining and figure scripts
+results/replay/
+results/rescored/
+results/retrained/
+results/figures/

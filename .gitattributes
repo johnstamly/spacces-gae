@@ -1,0 +1,9 @@
+# Released files are hashed byte for byte (data/MANIFEST.csv, models/provenance.json):
+# never convert their line endings on checkout.
+data/** -text
+models/** -text
+results/stored/** -text
+results/privacy/** -text
+*.gz binary
+*.npz binary
+*.pt binary

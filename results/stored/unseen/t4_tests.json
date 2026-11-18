@@ -1,0 +1,31 @@
+{
+ "holm_note": "Holm across the six primaries per method pair; a primary not yet computed for a pair enters as p = 1, which bounds the adjusted p from above",
+ "comparisons": {
+  "E2 vs B1": {
+   "T4": {
+    "diff_A_minus_B": -0.33939393939393936,
+    "ci95": [
+     -0.3939393939393939,
+     -0.2909090909090909
+    ],
+    "p_boot": 0.0005,
+    "draws_sha": "c80883ad0239016f",
+    "p_holm": 0.003,
+    "verdict": "E2 better"
+   }
+  },
+  "E2 vs B3": {
+   "T4": {
+    "diff_A_minus_B": -0.3696969696969697,
+    "ci95": [
+     -0.42424242424242425,
+     -0.3151515151515152
+    ],
+    "p_boot": 0.0005,
+    "draws_sha": "c80883ad0239016f",
+    "p_holm": 0.003,
+    "verdict": "E2 better"
+   }
+  }
+ }
+}

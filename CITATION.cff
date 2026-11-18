@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this code or the released models, please cite the article."
+title: "SpaCCES-GAE: reproduction package"
+version: 0.1.0
+type: software
+license:
+  - MIT
+  - CC-BY-4.0
+authors:
+  - given-names: Giannis
+    family-names: Stamatelatos
+  - given-names: Jacopo
+    family-names: Bardiani
+  - given-names: Andrea
+    family-names: Venturi
+  - given-names: Daniele
+    family-names: Dessi
+  - given-names: Claudio
+    family-names: Sbarufatti
+  - given-names: Theodoros
+    family-names: Loutas
+preferred-citation:
+  type: article
+  title: "A Spatial Coordinate-Conditioned Ego-Subgraph Graph Autoencoder for label-free detection, localization and severity ranking of structural damage from strain sensor networks"
+  journal: "Mechanical Systems and Signal Processing"
+  status: submitted
+  authors:
+    - given-names: Giannis
+      family-names: Stamatelatos
+    - given-names: Jacopo
+      family-names: Bardiani
+    - given-names: Andrea
+      family-names: Venturi
+    - given-names: Daniele
+      family-names: Dessi
+    - given-names: Claudio
+      family-names: Sbarufatti
+    - given-names: Theodoros
+      family-names: Loutas
